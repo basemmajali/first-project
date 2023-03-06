@@ -1,0 +1,30 @@
+
+body {
+    text-align: center;
+    font-weight: normal;
+    color: aliceblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/880/436/54/retro-pattern-vector-dark-wallpaper-preview.jpg);
+}
+input {
+border: 2px solid honeydew;
+  color: aliceblue;
+  font-size:large;
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  height: 50px;
+  width: 300px;
+  background: none;
+  border-top: 0ch;
+  border-right: 0ch;
+  border-bottom-left-radius:3cm
+}
+button {
+height: 50px;
+width: 150px;
+border-radius: 1cm;
+border-color: gray;
+font-size:large;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
