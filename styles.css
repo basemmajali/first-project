@@ -44,6 +44,8 @@ body {
     border-right: 0ch;
     border-bottom-left-radius:1cm;
     outline:none;
+    max-width: 300px;
+    min-height: 200px;
   }
   
 .login button {
@@ -69,7 +71,7 @@ body {
 }
 
 .logoside img {
-  height:85%;
+ 
   width: 100%;
   top: 50%;
   
