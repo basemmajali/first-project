@@ -1,0 +1,110 @@
+
+body {
+    text-align: center;
+    font-weight: normal;
+    color: aliceblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(https://images4.alphacoders.com/592/thumb-1920-592367.jpg);
+}
+
+.tnavbar {
+  overflow: hidden;
+  border-radius: 3cm;
+  width:fit-content;
+}
+
+.tnavbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.tnavbar a:hover {
+  background-color: aliceblue;
+  color: #333;
+}
+
+
+
+.form1 {
+  width:90%;
+  height: 70%;
+  border: 15px solid darkgray;
+  border-radius: 2cm;
+  padding: 20px; 
+  margin:10px;
+ }
+
+.textinput {
+    border: 2px solid honeydew;
+    color: aliceblue;
+    font-size:larger;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 20%;
+    width: 70%;
+    background: none;
+    border-top: 0ch;
+    border-right: 0ch;
+    border-bottom-left-radius:1cm;
+    outline:none;
+    max-width: 200px;
+    min-height: 20px;
+  }
+  
+.form1 button {
+    height: 50px;
+    width: 150px;
+    color: aliceblue;
+    border-radius:.5cm;
+    margin-top: 10px;
+    font-size:large;
+    border-bottom-left-radius: 1cm;
+    background: none;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top:90%
+  }   
+
+
+.form1 button:hover {
+  background-color: aliceblue;
+  color: black;
+  cursor:pointer;
+}
+
+
+
+.footer {
+  padding: auto;
+  position: absolute;
+  top: 99%;
+}
+
+.footer a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.footer a:hover {
+  color:gray
+}
+
+.firstside {
+  float: left;
+  width: 50%;
+  height: 50%;
+}
+
+.socendside {
+  float: right;
+  width: 50%;
+  height: 50%;
+}
+
